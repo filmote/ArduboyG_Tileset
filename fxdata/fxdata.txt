@@ -1,0 +1,5 @@
+include "Images.hpp"
+
+savesection  // Anything below here will be stored in the save block
+
+uint16_t 0xFFFF // Save state  end marker
